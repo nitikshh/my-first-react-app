@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nitikshh/my-first-react-app/static/css/main.192505d0.css",
+    "main.js": "/nitikshh/my-first-react-app/static/js/main.4060dafa.js",
+    "static/js/453.5b1645ef.chunk.js": "/nitikshh/my-first-react-app/static/js/453.5b1645ef.chunk.js",
+    "index.html": "/nitikshh/my-first-react-app/index.html",
+    "main.192505d0.css.map": "/nitikshh/my-first-react-app/static/css/main.192505d0.css.map",
+    "main.4060dafa.js.map": "/nitikshh/my-first-react-app/static/js/main.4060dafa.js.map",
+    "453.5b1645ef.chunk.js.map": "/nitikshh/my-first-react-app/static/js/453.5b1645ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192505d0.css",
+    "static/js/main.4060dafa.js"
+  ]
+}
